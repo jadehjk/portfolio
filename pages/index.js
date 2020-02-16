@@ -1,4 +1,10 @@
 import React from 'react'
+import Button from '@material-ui/core/Button';
+import Dialog from '@material-ui/core/Dialog';
+import DialogActions from '@material-ui/core/DialogActions';
+import DialogContent from '@material-ui/core/DialogContent';
+import DialogContentText from '@material-ui/core/DialogContentText';
+import DialogTitle from '@material-ui/core/DialogTitle';
 import Head from 'next/head'
 
 const Home = () => (
@@ -12,24 +18,10 @@ const Home = () => (
       <p className='description'>
         I&#39;m a software developer based in Ann Arbor, Michigan.
       </p>
+      <p className='description'>
+        I currently work at a startup called Clinc.
+      </p>
 
-      <div className='row'>
-        <a href='https://nextjs.org/docs' className='card'>
-          <h3>Resume &rarr;</h3>
-          <p>Learn more about Next.js in the documentation.</p>
-        </a>
-        <a href='https://nextjs.org/learn' className='card'>
-          <h3>Projects &rarr;</h3>
-          <p>Learn about the project I have in flight.</p>
-        </a>
-        <a
-          href='https://github.com/zeit/next.js/tree/master/examples'
-          className='card'
-        >
-          <h3>Blogs &rarr;</h3>
-          <p>Find other example boilerplates on the Next.js GitHub.</p>
-        </a>
-      </div>
     </div>
 
     <style jsx>{`
