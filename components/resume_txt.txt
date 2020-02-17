@@ -1,0 +1,22 @@
+
+EXPERIENCE
+----------------------------------------------------------------
+Software engineer, Clinc; Ann Arbor, MI.       Feb 2019 - present
+- Responsible for a complete overhaul including the user interface and migration for REST to GraphQL for a major feature used by both the internal AI experience design engineering team and by customers who build their own conversational AI engine.
+- Introduced a new testing framework in order to provide a new mechanism for developers to write end-to-end tests. Implemented foundation for the framework to be run on the CI pipeline with additional features such as screenshots and videos in order to provide an easier way for developers to debug their code
+
+Software Engineer, Intern, Clinc; Ann Arbor, MI.                        May 2018 - Dec. 2018
+- Implemented features for a multi-tenant environment used by clients. Isolated components to enable concurrency and protect critical data. Used the Django ORM to establish a connection between MySQL and the application.
+- Designed and implemented a request queue to mimic a load balancer that prioritizes requests and limits the number of concurrent calls to handle throttling issues from Amazon MTurk. Enhanced the robustness of the company’s product by decreasing the throttling frequency by 72%.
+- Refined and enhanced product features for the company’s launch on Tech Crunch Disrupt 2018
+
+Research intern, atto research; seoul, Korea.                      June 2016 - August 2016
+- Served as the head developer within a team of three interns, responsible for test case generation and software debug.
+- Proposed and executed an automation plan for finding defective displays during the manufacturing process instead of manual processes currently in use by display manufacturers.
+
+EDUCATION
+----------------------------------------------------------------
+University of michigan, Ann Arbor, mi — b.s in computer science               dec. 2018
+SKILLS
+Languages: Python, Javascript, Typescript, C++, HTML
+Frameworks: Vue.js, Apollo, Django
